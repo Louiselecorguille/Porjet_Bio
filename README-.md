@@ -1,7 +1,7 @@
 # Projet_Bio
 CY-Tech Pre-ING2 BTC, Groupe 2, Livia LE GARREC et Louise LE CORGUILLE
 
-Il faut tout dÕabord télécharger le zip du GitHub et le décompresser pour
+Il faut tout d'abord télécharger le zip du GitHub et le décompresser pour
 l'ouvrir. Une fois exécuté, le programme va traiter et filtrer les données
 d'un fichier CSV d'entrée, qui sera renseigné dans un dossier input, puis va
 créer des fichiers de sorties ainsi que des graphiques qui seront stockés dans
