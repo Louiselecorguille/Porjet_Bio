@@ -5,4 +5,4 @@ Une fois exécuté, le programme va traiter et filtrer les données d'un fichier
 qui sera renseigné dans un dossier input, puis va créer des fichiers de sorties ainsi que des 
 graphiques qui seront stockés dans le dossier output. Pour se faire, le programme utilise les 
 librairies pandas pour les DataFrame et pour importer les fichiers CSV et matplotlib pour créer 
-les graphiques.
+les graphiques. Pour changer de CSV, il faut changer le nom du CSV à la ligne 16 du programme.
